@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/debugexample">
+        <exclude pattern="/apps/debugexample/install" />
+    </filter>
+    <!--  <filter root="/apps/debugexample/helloworld" /> -->
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/debugexample"/>
+</workspaceFilter>
