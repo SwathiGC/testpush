@@ -14,6 +14,7 @@ public class Info {
 
 
       private String message;
+private String test="from master branch";
 
         /*@SlingObject
         private SlingHttpServletRequest request;*/
